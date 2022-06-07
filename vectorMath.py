@@ -1,7 +1,5 @@
 import math
 
-
-# قانون الجداء الداخلي = طويلة الاول المتجه الاول جداء الثاني
 def multiply_inner(v1, v2):
     num = len(v1)
     result = 0
