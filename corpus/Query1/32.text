@@ -1,0 +1,1 @@
+I'd like to find articles describing graph algorithms that are based on the eigenvalue decomposition (or singular value decomposition) of the ajacency matrix for the graph.  I'm especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method. 
